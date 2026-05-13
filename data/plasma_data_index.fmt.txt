@@ -1,0 +1,31 @@
+  FORMAT OF THE SUBSETTED FILE
+    
+    ITEMS                      FORMAT   
+     
+ 1 Year                          I4        
+ 2 Day                           I4        
+ 3 Hour                          I3        
+ 4 IMP LANL No.of points         I4        
+ 5 IMP MIT No. of points         I4        
+ 6 ISEE-3 No. of points          I4        
+ 7 IMP LANL Speed, km/s          F6.0      
+ 8 IMP MIT Speed, km/s           F6.0      
+ 9 ISEE-3 Speed, km/s            F6.0      
+10 IMP LANL flow azimuth,deg.    F6.1      
+11 IMP MIT flow azimuth,deg.     F6.1      
+12 ISEE-3 flow azimuth,deg.      F6.1      
+13 IMP LANL Density, N/cm^3      F6.1      
+14 IMP MIT Density, N/cm^3       F6.1      
+15 ISEE-3 Density, N/cm^3        F6.1      
+16 IMP LANL Temperature, K       F9.0      
+17 IMP MIT Temperature, K        F9.0      
+18 ISEE-3 Temperature, K         F9.0      
+19 IMP LANL sigma-V, km/s        F6.0      
+20 IMP MIT sigma-V, km/s         F6.0      
+21 ISEE-3 sigma-V, km/s          F6.0      
+22 IMP LANL sigma-N, N/cm^3      F6.1      
+23 IMP MIT sigma-N, N/cm^3       F6.1      
+24 ISEE-3 sigma-N, N/cm^3        F6.1      
+25 IMP LANL sigma-T,K            F9.0      
+26 IMP MIT sigma-T,K             F9.0      
+27 ISEE-3 sigma-T,K              F9.0      
